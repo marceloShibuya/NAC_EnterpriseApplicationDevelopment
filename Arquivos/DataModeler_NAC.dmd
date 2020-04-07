@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="DataModeler_NAC" id="BBDC3FD8-4761-5695-841B-4C2BEE99C375" version="3.5">
+<createdBy>User</createdBy>
+<createdTime>2020-04-07 15:55:21 UTC</createdTime>
+<ownerDesignName>DataModeler_NAC</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>BBDC3FD8-4761-5695-841B-4C2BEE99C375</designId>
+</OSDM_Design>
